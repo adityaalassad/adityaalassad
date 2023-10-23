@@ -69,7 +69,7 @@
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2>My Contributions👀</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/adityaalassad/adityaalassad/output/github-contribution-grid-snake.svg" />
   
