@@ -1,6 +1,6 @@
 ![MasterHead](https://cdna.artstation.com/p/assets/images/images/060/460/880/original/pixel-jeff-chill-mario-2023-2.gif?1678633376)
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aditya+Al+Assad!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=70&center=true&vCenter=true&width=1000&height=70&duration=3000&lines=Hi+Everyone!+👋;+I'm+Aditya+Al+Assad!;+I+am+a+Beginner+Developer" />
 </h1>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47as0qtwxbmeovxpcm8nkkoy4z3189su426rdirlhk&ep=v1_gifs_related&rid=giphy.gif&ct=g">
 
