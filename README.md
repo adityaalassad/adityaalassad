@@ -49,13 +49,7 @@
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-<div align="center">
-  <h2>My Contributions👀</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/adityaalassad/adityaalassad/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaalassad&layout=pie&show_icons=true&theme=transparent" alt="adityaalassad" /></p>
 
